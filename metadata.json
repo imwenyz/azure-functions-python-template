@@ -1,0 +1,16 @@
+{
+    "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+    "itemDisplayName": "Azure Function App for Python",
+    "description": "An Azure Function App in Python runtime",
+    "summary": "ARM template",
+    "githubUsername": "imwenyz",
+    "dateUpdated": "2020-06-26",
+    "type": "QuickStart",
+    "tags": {
+        "subscriptiontype": "Free",
+        "resource":"App Service Plan, Function, Storage Account, Application Insights",
+        "os": "serverless",
+        "cost": "$0"
+    }
+  }
+  
